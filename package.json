@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jazerbarclay/nodejs-static-web-server-example/issues"
   },
-  "homepage": "https://github.com/jazerbarclay/nodejs-static-web-server-example#readme"
+  "homepage": "https://github.com/jazerbarclay/nodejs-static-web-server-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

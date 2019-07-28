@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-static-web-server-example",
+  "version": "1.0.0",
+  "description": "Simple web server using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazerbarclay/nodejs-static-web-server-example.git"
+  },
+  "keywords": [],
+  "author": "Jazer Barclay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazerbarclay/nodejs-static-web-server-example/issues"
+  },
+  "homepage": "https://github.com/jazerbarclay/nodejs-static-web-server-example#readme"
+}
